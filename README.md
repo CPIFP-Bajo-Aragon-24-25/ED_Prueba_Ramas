@@ -2,7 +2,6 @@
 
 ## Instrucciones
 - Clona el proyecto utilizando GitHub Desktop.
-- Solicita ser colaborador del proyecto.
 - Crea una rama desde GitHub o GitHub Desktop. Nombre de la rama "Rama_TuApellido".
 - Situate en la rama que has creado "Rama_TuApellido".
 - Crea un fichero cualquiera. Nombre del fichero "Fichero_TuApellido".
